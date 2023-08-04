@@ -1,0 +1,29 @@
+#title {
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+}
+
+.col-lg-12 {
+  margin: 2%;
+  padding: 5%;
+  text-align: justify;
+}
+
+.col-lg-6 {
+  padding: 1%;
+  margin-bottom: 4%;
+  align-items: center;
+}
+
+.image1 {
+  align-self: center;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  object-fit: cover;
+  position: relative;
+}
